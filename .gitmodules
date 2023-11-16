@@ -1,3 +1,4 @@
 [submodule "recursos/awesome-compose"]
 	path = recursos/awesome-compose
-	url = https://github.com/docker/awesome-compose
+	url = https://github.com/docker/awesome-compose.git
+	branch = master
