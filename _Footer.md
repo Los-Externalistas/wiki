@@ -1,1 +1,0 @@
-Documentación realizada por los Externalistas
