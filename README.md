@@ -4,18 +4,28 @@
 
 Aquí encontrarás información sobre todas las tecnologías usadas en el proyecto de Los Externalistas.
 
-- [Home](https://github.com/Los-Externalistas/wiki)
-- [Docker](https://github.com/Los-Externalistas/wiki/Docker)
-- [Kubernetes](https://github.com/Los-Externalistas/wiki/Kubernetes)
-- [Terraform](https://github.com/Los-Externalistas/wiki/Terraform)
-- [DNS](https://github.com/Los-Externalistas/wiki/DNS)
-- [CICD](https://github.com/Los-Externalistas/wiki/CICD)
-  - [ArgoCD]()
-- [Monitoring](https://github.com/Los-Externalistas/wiki/Monitoring)
-  - [Grafana]()
-  - [Centreon]()
-- [Middleware](https://github.com/Los-Externalistas/wiki/Middleware)
-  - [Traefik]()
-  - [Crowdsec]()
-  - [Authelia]()
-- [Glosario](https://github.com/Los-Externalistas/wiki/Glosario)
+## Índice
+
+- [Docker]
+- [Kubernetes]
+- [Terraform]
+- [DNS]
+- [CICD]
+  - [ArgoCD]
+- [Monitoring]
+  - [Grafana]
+  - [Centreon]
+- [Middleware]
+  - [Traefik]
+  - [Crowdsec]
+  - [Authelia]
+- [Glosario]
+
+[Docker]:docs/Docker.md
+[Kubernetes]:docs/Kubernetes.md
+[Terraform]:docs/Terraform.md
+[DNS]:docs/DNS.md
+[CICD]:docs/CICD.md
+[Monitoring]:docs/Monitoring.md
+[Middleware]:docs/Middleware.md
+[Glosario]:docs/Glosario.md
