@@ -1,3 +1,5 @@
-# Wiki
----
-En este repositorio está recogida toda la documentación y los recursos pertinentes para el desarrollo del proyecto.
+# Home
+
+![Logo](https://avatars.githubusercontent.com/u/148331613?s=100&v=4)
+
+Aquí encontrarás información sobre todas las tecnologías usadas en el proyecto de Los Externalistas.
